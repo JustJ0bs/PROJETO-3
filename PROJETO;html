@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wiki Moderna - Tópicos</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <h1>Wiki Moderna</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Início</a></li>
+                    <li><a href="#">Artigos</a></li>
+                    <li><a href="#">Sobre</a></li>
+                    <li><a href="#">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container">
+        <section class="topics">
+            <h2>Tópicos Populares</h2>
+            <div class="topic">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_of_Apple_Inc.svg" alt="Tecnologia" />
+                <h3>Tecnologia</h3>
+                <p>A tecnologia é uma parte essencial de nossas vidas. Ela abrange tudo, desde smartphones até inteligência artificial, mudando a forma como interagimos e trabalhamos.</p>
+            </div>
+            <div class="topic">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Health_Aid_Logo.png" alt="Saúde" />
+                <h3>Saúde</h3>
+                <p>A saúde é um estado de completo bem-estar físico, mental e social. É importante cuidar da saúde para uma vida longa e saudável.</p>
+            </div>
+            <div class="topic">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Education_Logo.png" alt="Educação" />
+                <h3>Educação</h3>
+                <p>A educação é a base para o desenvolvimento pessoal e profissional. Através do aprendizado, adquirimos conhecimento e habilidades para a vida.</p>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Wiki Moderna. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
